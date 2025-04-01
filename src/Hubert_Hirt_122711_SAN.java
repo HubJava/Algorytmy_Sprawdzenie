@@ -5,8 +5,8 @@ import java.util.Arrays;
 
 
 
-// Definicja klasy BubbleSortAnalysis, która zawiera metody do testowania algorytmu sortowania bąbelkowego
- class BubbleSortAnalysis {
+// Definicja klasy Hubert_Hirt_sprawdzenie_algorytmu, która zawiera metody do testowania algorytmu sortowania bąbelkowego
+ class Hubert_Hirt_sprawdzenie_algorytmu {
 
     // Metoda main, która jest punktem wejścia programu
     public static void main(String[] args) {
