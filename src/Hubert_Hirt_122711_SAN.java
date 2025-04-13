@@ -17,7 +17,7 @@ class Hubert_Hirt_sprawdzenie_algorytmu {
         // Definicja tablicy z 600 losowymi liczbami całkowitymi
         int[] dane = new int[2500];
         for (int i = 0; i < dane.length; i++) {
-            dane[i] = (int) (Math.random() * 2500); // Wypełnienie tablicy losowymi wartościami z zakresu 0-599
+            dane[i] = (int) (Math.random() * 2500); // Wypełnienie tablicy losowymi wartościam
         }
 
         // Wyświetlenie informacji o autorze oraz celu programu
